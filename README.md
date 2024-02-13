@@ -1,3 +1,5 @@
+# THIS IS A BUG REPRODUCER FOR https://github.com/vaadin/flow-components/issues/6052
+
 # Skeleton Starter for Vaadin
 
 This project can be used as a starting point to create your own Vaadin application.
